@@ -1,0 +1,7 @@
+E:\Plan carrera\Gof\patternsCreation\Prototype\PrototypeRealWorld\PrototypeRealWorld\bin\Debug\PrototypeRealWorld.exe.config
+E:\Plan carrera\Gof\patternsCreation\Prototype\PrototypeRealWorld\PrototypeRealWorld\bin\Debug\PrototypeRealWorld.exe
+E:\Plan carrera\Gof\patternsCreation\Prototype\PrototypeRealWorld\PrototypeRealWorld\bin\Debug\PrototypeRealWorld.pdb
+E:\Plan carrera\Gof\patternsCreation\Prototype\PrototypeRealWorld\PrototypeRealWorld\obj\Debug\PrototypeRealWorld.csprojAssemblyReference.cache
+E:\Plan carrera\Gof\patternsCreation\Prototype\PrototypeRealWorld\PrototypeRealWorld\obj\Debug\PrototypeRealWorld.csproj.CoreCompileInputs.cache
+E:\Plan carrera\Gof\patternsCreation\Prototype\PrototypeRealWorld\PrototypeRealWorld\obj\Debug\PrototypeRealWorld.exe
+E:\Plan carrera\Gof\patternsCreation\Prototype\PrototypeRealWorld\PrototypeRealWorld\obj\Debug\PrototypeRealWorld.pdb
